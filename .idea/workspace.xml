@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d526abbc-6d43-4cdc-89a1-46d6a1d269c0" name="Changes" comment="Created post model">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d526abbc-6d43-4cdc-89a1-46d6a1d269c0" name="Changes" comment="Created register activity for user to register in application to access other functionality" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,23 +25,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/aasif/AndroidStudioProjects/Androidg3p/AndroidProject1/app/src/main/java/com/example/androidproject1/Modals&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/soura/OneDrive/Desktop/Conestoga/Sem 3/Androidg3/AndroidProject1/app/src/main/java/com/example/androidproject1/Activity"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\soura\OneDrive\Desktop\Conestoga\Sem 3\Androidg3\AndroidProject1\app\src\main\java\com\example\androidproject1\Activity" />
+      <recent name="C:\Users\soura\OneDrive\Desktop\Conestoga\Sem 3\Androidg3\AndroidProject1\app\src\main\java\com\example\androidproject1\fragments" />
       <recent name="C:\Users\aasif\AndroidStudioProjects\Androidg3p\AndroidProject1\app\src\main\java\com\example\androidproject1\Modals" />
       <recent name="C:\Users\aasif\AndroidStudioProjects\Androidg3p\AndroidProject1\app\src\main\java\com\example\androidproject1\Adapter" />
       <recent name="C:\Users\aasif\AndroidStudioProjects\Androidg3p\AndroidProject1\app\src\main\res\layout" />
-      <recent name="C:\Users\aasif\AndroidStudioProjects\Androidg3p\AndroidProject1\app\src\main\java\com\example\androidproject1\Activity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\soura\OneDrive\Desktop\Conestoga\Sem 3\Androidg3\AndroidProject1\app\src\main\java\com\example\androidproject1\Modals" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -87,7 +89,31 @@
       <option name="project" value="LOCAL" />
       <updated>1710730335799</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Created user manager modal">
+      <option name="closed" value="true" />
+      <created>1710733764707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710733764707</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created user manager modal">
+      <option name="closed" value="true" />
+      <created>1710733863978</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710733863978</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created register activity for user to register in application to access other functionality">
+      <option name="closed" value="true" />
+      <created>1710733995490</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710733995490</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -95,6 +121,8 @@
     <MESSAGE value="Created layout for main activity and post to display" />
     <MESSAGE value="Created post adapter" />
     <MESSAGE value="Created post model" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created post model" />
+    <MESSAGE value="Created user manager modal" />
+    <MESSAGE value="Created register activity for user to register in application to access other functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created register activity for user to register in application to access other functionality" />
   </component>
 </project>
