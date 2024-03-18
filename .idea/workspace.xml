@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d526abbc-6d43-4cdc-89a1-46d6a1d269c0" name="Changes" comment="Created layout for main activity and post to display" />
+    <list default="true" id="d526abbc-6d43-4cdc-89a1-46d6a1d269c0" name="Changes" comment="Created post model">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,11 +35,12 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/aasif/AndroidStudioProjects/Androidg3p/AndroidProject1/app/src/main/res/layout"
+    "last_opened_file_path": "C:/Users/aasif/AndroidStudioProjects/Androidg3p/AndroidProject1/app/src/main/java/com/example/androidproject1/Modals"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aasif\AndroidStudioProjects\Androidg3p\AndroidProject1\app\src\main\java\com\example\androidproject1\Modals" />
       <recent name="C:\Users\aasif\AndroidStudioProjects\Androidg3p\AndroidProject1\app\src\main\java\com\example\androidproject1\Adapter" />
       <recent name="C:\Users\aasif\AndroidStudioProjects\Androidg3p\AndroidProject1\app\src\main\res\layout" />
       <recent name="C:\Users\aasif\AndroidStudioProjects\Androidg3p\AndroidProject1\app\src\main\java\com\example\androidproject1\Activity" />
@@ -68,12 +71,30 @@
       <option name="project" value="LOCAL" />
       <updated>1710730106354</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created post adapter">
+      <option name="closed" value="true" />
+      <created>1710730279278</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710730279278</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created post model">
+      <option name="closed" value="true" />
+      <created>1710730335799</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710730335799</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created main activity" />
     <MESSAGE value="Created layout for main activity and post to display" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created layout for main activity and post to display" />
+    <MESSAGE value="Created post adapter" />
+    <MESSAGE value="Created post model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created post model" />
   </component>
 </project>
