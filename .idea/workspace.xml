@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d526abbc-6d43-4cdc-89a1-46d6a1d269c0" name="Changes" comment="" />
+    <list default="true" id="d526abbc-6d43-4cdc-89a1-46d6a1d269c0" name="Changes" comment="Created layout for main activity and post to display" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,9 +16,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2dqFokmKNnZM6p33A93xHQKeiSM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,7 +32,8 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "E:/AndroidProject1 - Copy"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/aasif/AndroidStudioProjects/Androidg3p/AndroidProject1/app/src/main/res/layout"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,6 +45,28 @@
       <option name="presentableId" value="Default" />
       <updated>1710727878472</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created main activity">
+      <option name="closed" value="true" />
+      <created>1710730016464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710730016464</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created layout for main activity and post to display">
+      <option name="closed" value="true" />
+      <created>1710730106354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710730106354</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created main activity" />
+    <MESSAGE value="Created layout for main activity and post to display" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created layout for main activity and post to display" />
   </component>
 </project>
